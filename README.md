@@ -1,16 +1,16 @@
-# 👋 Luís Carlos
+### 👋 Luís Carlos
 
 🎓 **Estudante de Engenharia Informática** | 2º ano - Instituto Superior de Engenharia do Porto  
 📍 19 anos  
 
-## 🚀 Tecnologias  
+### 🚀 Tecnologias  
 
 🔹 **Linguagens:** Java | C | Python | Bash | Pascal  
 🔹 **Arquitetura:** DDD (Domain-Driven Design)  
 🔹 **Testes:** JUnit | Unity  
 🔹 **Outras Ferramentas:** Linux | Windows | MicroControllers (Raspberry Pi)
 
-## 🌍 Idiomas  
+### 🌍 Idiomas  
 🗣️ **Inglês:** LED - Cambridge English - PET (112h) | 07/11/2021
 
 <!--
