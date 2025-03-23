@@ -1,4 +1,4 @@
-## 👋 Luís Carlos
+## 👋 Luís Freitas
 
 🎓 **Estudante de Engenharia Informática** | 2º ano - Instituto Superior de Engenharia do Porto  
 📍 19 anos  
