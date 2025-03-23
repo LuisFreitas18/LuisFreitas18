@@ -8,7 +8,7 @@
 🔹 **Linguagens:** Java | C | Python | Bash | Pascal  
 🔹 **Arquitetura:** DDD (Domain-Driven Design)  
 🔹 **Testes:** JUnit | Unity  
-🔹 **Outras Ferramentas:** Linux | Windows
+🔹 **Outras Ferramentas:** Linux | Windows | MicroControllers (Raspberry Pi)
 
 ## 🌍 Idiomas  
 🗣️ **Inglês:** LED - Cambridge English - PET (112h) | 07/11/2021
