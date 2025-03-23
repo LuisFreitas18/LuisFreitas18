@@ -1,4 +1,16 @@
-## Hi there 👋
+# 👋 Luís Carlos
+
+🎓 **Estudante de Engenharia Informática** | 2º ano - Instituto Superior de Engenharia do Porto  
+📍 19 anos  
+
+## 🚀 Tecnologias  
+
+🔹 **Linguagens:** Java | C | Python  
+🔹 **Arquitetura:** DDD (Domain-Driven Design)  
+🔹 **Testes:** JUnit | Unity  
+
+## 🌍 Idiomas  
+🗣️ **Inglês:** LED - Cambridge English - PET (112h) | 07/11/2021
 
 <!--
 **LuisFreitas18/LuisFreitas18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
