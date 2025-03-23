@@ -5,7 +5,7 @@
 
 ## 🚀 Tecnologias  
 
-🔹 **Linguagens:** Java | C | Python | Bash | Pascal
+🔹 **Linguagens:** Java | C | Python | Bash | Pascal 
 🔹 **Arquitetura:** DDD (Domain-Driven Design)  
 🔹 **Testes:** JUnit | Unity  
 🔹 **Outras Ferramentas:** Linux | Windows
