@@ -34,7 +34,8 @@
 
   🔹 **Linguagens:** Java | C | Python | SQL | HTML | CSS | Bash | Pascal  
   🔹 **Arquitetura:** DDD (Domain-Driven Design)  
-  🔹 **Testes:** JUnit | Unity  
+  🔹 **Testes:** JUnit | Unity    
+  🔹 **Software:** Github | VSCode | IntellIJ | Thonny | Photoshop    
   🔹 **Outras Ferramentas:** Linux | Windows | MicroControllers (Raspberry Pi)
 </details>
 
