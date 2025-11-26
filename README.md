@@ -51,6 +51,7 @@
   <summary><h3>🌍 <strong>Idiomas </strong></h3></summary>
   
   🗣️ **Português:** Nativo    
+  
   🗣️ **Inglês:** LED - Cambridge English - PET (112h) | 07/11/2021
 </details>
 
