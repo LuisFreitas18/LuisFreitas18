@@ -32,12 +32,18 @@
 <details open>
   <summary><h3>🚀 <strong>Tecnologias </strong></h3></summary>
 
-  🔹 **Linguagens:** Java | JavaScript/TypeScript | C/C# | Python | SQL | HTML | CSS | Bash 
+  🔹 **Linguagens:** Java | JavaScript/TypeScript | C/C# | Python | SQL | HTML | CSS | Bash
+  
   🔹 **Frameworks:** React | .NET
-  🔹 **Arquitetura:** DDD | Onion  
+  
+  🔹 **Arquitetura:** DDD | Onion
+  
   🔹 **Testes:** JUnit | XUnit | Unity | Postman | Vitest
-  🔹 **Software:** Github | VSCode | IntellIJ | Thonny | Photoshop    
+  
+  🔹 **Software:** Github | VSCode | IntellIJ | Thonny | Photoshop
+  
   🔹 **Outras Ferramentas:** Linux | Windows | MicroControllers (Raspberry Pi)
+  
   🔹 **Metodologias:** Agile/Scrum
 </details>
 
