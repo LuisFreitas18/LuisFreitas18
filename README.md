@@ -22,7 +22,7 @@
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
       </h1>
       <p align="center">
-        <strong>🎓 Estudante de Engenharia Informática | 2º ano - Instituto Superior de Engenharia do Porto  
+        <strong>🎓 Estudante de Engenharia Informática | 3º ano - Instituto Superior de Engenharia do Porto  
 📍 19 anos</strong>
       </p>
     </summary>
@@ -32,9 +32,10 @@
 <details open>
   <summary><h3>🚀 <strong>Tecnologias </strong></h3></summary>
 
-  🔹 **Linguagens:** Java | C | Python | SQL | HTML | CSS | Bash | Pascal  
-  🔹 **Arquitetura:** DDD (Domain-Driven Design)  
-  🔹 **Testes:** JUnit | Unity    
+  🔹 **Linguagens:** Java | JavaScript/TypeScript | C/C# | Python | SQL | HTML | CSS | Bash 
+  🔹 **Frameworks:** React | .NET
+  🔹 **Arquitetura:** DDD | Onion  
+  🔹 **Testes:** JUnit | XUnit | Unity | Postman | Vitest
   🔹 **Software:** Github | VSCode | IntellIJ | Thonny | Photoshop    
   🔹 **Outras Ferramentas:** Linux | Windows | MicroControllers (Raspberry Pi)
 </details>
