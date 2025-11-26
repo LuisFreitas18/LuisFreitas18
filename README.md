@@ -38,6 +38,7 @@
   🔹 **Testes:** JUnit | XUnit | Unity | Postman | Vitest
   🔹 **Software:** Github | VSCode | IntellIJ | Thonny | Photoshop    
   🔹 **Outras Ferramentas:** Linux | Windows | MicroControllers (Raspberry Pi)
+  🔹 **Metodologias:** Agile/Scrum
 </details>
 
 <details open>
