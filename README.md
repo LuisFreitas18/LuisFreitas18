@@ -34,11 +34,13 @@
 
   🔹 **Linguagens:** Java | JavaScript/TypeScript | C/C# | Python | SQL | HTML | CSS | Bash
   
-  🔹 **Frameworks:** React | .NET
+  🔹 **Frameworks:** React | .NET | Fastify | Mongoose
   
-  🔹 **Arquitetura:** DDD | Onion
+  🔹 **Arquiteturas:** DDD | Onion
   
-  🔹 **Testes:** JUnit | XUnit | Unity | Postman | Vitest
+  🔹 **Bases de Dados:** H2 | SQL Server | PostgreSQL | MongoDB
+  
+  🔹 **Testes:** JUnit | XUnit | Unity | Postman | Jest
   
   🔹 **Software:** Github | VSCode | IntellIJ | Thonny | Photoshop
   
