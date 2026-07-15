@@ -22,8 +22,8 @@
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
       </h1>
       <p align="center">
-        <strong>🎓 Estudante de Engenharia Informática | 3º ano - Instituto Superior de Engenharia do Porto  
-📍 19 anos</strong>
+        <strong>🎓 Estudante de 1º Ano do Mestrado em Engenharia de Sistemas Computacionais Críticos | Licenciado em Engenharia Informática | Instituto Superior de Engenharia do Porto  
+📍 20 anos</strong>
       </p>
     </summary>
   </ul>
@@ -32,9 +32,9 @@
 <details open>
   <summary><h3>🚀 <strong>Tecnologias </strong></h3></summary>
 
-  🔹 **Linguagens:** Java | JavaScript/TypeScript | C/C# | Python | SQL | HTML | CSS | Bash
+  🔹 **Linguagens:** Java | JavaScript/TypeScript | C/C++/C# | Python | SQL | HTML | CSS | Bash
   
-  🔹 **Frameworks:** React | .NET | Fastify | Mongoose
+  🔹 **Frameworks:** React | Flutter | .NET | Fastify | Mongoose | PlayWright | PlatformIO
   
   🔹 **Arquiteturas:** DDD | Onion
   
@@ -44,7 +44,7 @@
   
   🔹 **Software:** Github | VSCode | IntellIJ | Thonny | Photoshop
   
-  🔹 **Outras Ferramentas:** Linux | Windows | MicroControllers (Raspberry Pi)
+  🔹 **Outras Ferramentas:** Linux | Windows | MicroControllers (Raspberry Pi, Espressif ESP32, STM32) | YOLO + Roboflow
   
   🔹 **Metodologias:** Agile/Scrum
 </details>
