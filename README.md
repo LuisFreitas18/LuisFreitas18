@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/1200x/3b/27/8c/3b278cf058a472c160f391697290a3d1.jpg" width="100%"/>
+  <img src="imgs/lemans.jpg" alt="image" style="opacity: 0.7; filter: brightness(1.2) contrast(1.1) saturate(1.3) hue-rotate(35deg) blur(0.2px);" />
 </div>
 
 <br/>
